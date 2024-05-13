@@ -7,6 +7,7 @@
 <br/>
 
 🌱 I’m currently learning **Spring**
+🚀 I’m currently studying **Science and Software Engineering**
 
 <div align="center"> 
   <a href="mailto:jorgecas20000@gmail.com">
