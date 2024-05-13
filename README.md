@@ -2,16 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Jorge+Castañeda" />
 </h1>
 
-<h3 align="center">A Software Developer From Guatemala </h3>
+<h2 align="center">
 
-<br/>
-
-<h4 align="center">
-
-🌱 I’m currently learning **Spring** <br/>
+🌱 I’m currently learning **SpringBoot** <br/>
 🚀 I’m currently studying **Science and Software Engineering**
 
-</h4>
+</h2>
 
 <div align="center"> 
   <a href="mailto:jorgecas20000@gmail.com">
@@ -19,7 +15,9 @@
   </a>
 </div>
 
-### About Me:
+<!-- ### About Me:
+ -->
+
 
 ## Languages and Tools
 
