@@ -5,7 +5,7 @@
 <h2 align="center">
 
 🌱 I’m currently learning **SpringBoot** <br/>
-🚀 I’m currently studying **Science and Software Engineering**
+🚀 I’m currently studying **Science and Systems Engineering**
 
 </h2>
 
