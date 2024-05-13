@@ -6,12 +6,12 @@
 
 <br/>
 
-<p align="center">
+<h4 align="center">
 
 🌱 I’m currently learning **Spring** <br/>
 🚀 I’m currently studying **Science and Software Engineering**
 
-</p>
+</h4>
 
 <div align="center"> 
   <a href="mailto:jorgecas20000@gmail.com">
