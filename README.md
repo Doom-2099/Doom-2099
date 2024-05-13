@@ -36,8 +36,8 @@
 
 ### Databases
 
-| MySql | PostgreSql | SqlServer | Mongo | Redis | Neo4j |<br/>
-|----------|----------|----------|----------|----------|----------|<br/>
+| MySql | PostgreSql | SqlServer | Mongo | Redis | Neo4j |  
+|----------|----------|----------|----------|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql"  alt="mysql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres"  alt="postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="sqlserver"  alt="sqlserver" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo"  alt="mongo" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis"  alt="redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="neo4j"  alt="neo4j" width="55" height="55"/> |
 
 <br/>
@@ -45,8 +45,8 @@
 
 ### Web Development Frameworks
 
-| React | Angular |<br/>
-|----------|----------|<br/>
+| React | Angular |  
+|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular"  alt="angular" width="55" height="55"/> |
 
 <br/>
@@ -54,8 +54,8 @@
 
 ### Web Design Libraries
 
-| Materialize | Bootstrap |<br/>
-|----------|----------|<br/>
+| Materialize | Bootstrap |  
+|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="materialize"  alt="materialize" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> |
 
 <br/>
@@ -63,8 +63,8 @@
 
 ### Cloud
 
-| AWS | GCP |<br/>
-|----------|----------|<br/>
+| AWS | GCP |  
+|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws"  alt="aws" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="gcp"  alt="gcp" width="55" height="55"/> |
 
 <br/>
@@ -72,8 +72,8 @@
 
 ### Versioning
 
-| Github | Gitlab |<br/>
-|----------|----------|<br/>
+| Github | Gitlab |  
+|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab"  alt="gitlab" width="55" height="55"/> |
 
 <br/>
@@ -81,8 +81,8 @@
 
 ### Other Tools
 
-| Nodejs | Git | Docker | Postman | Ubuntu | Jira | VSCode | Arduino |<br/>
-|----------|----------|----------|----------|----------|----------|----------|<br/>
+| Nodejs | Git | Docker | Postman | Ubuntu | Jira | VSCode | Arduino |  
+|----------|----------|----------|----------|----------|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs"  alt="nodejs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira"  alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino"  alt="arduino" width="55" height="55"/> |
 
 </div>
