@@ -4,7 +4,6 @@
 
 <h2 align="center">
 
-🌱 I’m currently learning **SpringBoot** <br/>
 🚀 I’m currently studying **Science and Systems Engineering**
 
 </h2>
@@ -27,7 +26,7 @@
 
 | Python | C++ | Javascript | Java | Typescript |  
 |----------|----------|----------|-------|-------| 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="Typescript" width="55" height="55"/> |
 
 <br/>
 <br/>
@@ -81,7 +80,7 @@
 
 | Nodejs | Git | Docker | Postman | Ubuntu | Jira | VSCode | Arduino |  
 |----------|----------|----------|----------|----------|----------|----------|----------|  
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs"  alt="nodejs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira"  alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino"  alt="arduino" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs"  alt="nodejs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira"  alt="jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino"  alt="arduino" width="55" height="55"/> | 
 
 </div>
 
