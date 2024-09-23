@@ -52,7 +52,7 @@
 ### Web Design Libraries
 
 | Materialize | Bootstrap | MaterialUI |  
-|----------|----------|  
+|----------|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="materialize"  alt="materialize" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui"  alt="materialui" width="55" height="55"/> |
 
 <br/>
