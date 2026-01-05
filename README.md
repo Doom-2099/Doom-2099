@@ -43,7 +43,7 @@
 ### Web Development Frameworks
 
 | React | Angular | Ionic |  
-|----------|----------|  
+|----------|----------|----------|  
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular"  alt="angular" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic"  alt="ionic" width="55" height="55"/> | 
 
 <br/>
